@@ -1,0 +1,8 @@
+- autoDocstring
+- Code Runner
+- Anaconda Extension Pack
+- Trailing Spaces
+- Better Comments
+- Djaneiro - Django Snippets
+- flask-snippets
+
